@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Android Development Using NDK**
 
-- 📫 How to reach me **saurabhpandey436@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saurabh-pandey-639255128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-pandey-639255128" height="30" width="40" /></a>
@@ -34,4 +32,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4xor7&show_icons=true&locale=en&layout=compact" alt="h4xor7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4xor7&show_icons=true&locale=en" alt="h4xor7" /></p>
+
 
