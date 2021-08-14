@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4xor7&show_icons=true&locale=en&theme=yeblu" alt="h4xor7" /></p>
 
-<script src="https://github.com/h4xor7/h4xor7.github.io/blob/main/SLT/h4xor7.stl"></script>
 
 
 ![Snake animation](https://github.com/luisjeremias/luisjeremias/blob/output/github-contribution-grid-snake.svg)
