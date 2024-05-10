@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4xor7&label=Profile%20views&color=0e75b6&style=flat" alt="h4xor7" /> </p>
- <img align="right" width="30%"  src="https://giffiles.alphacoders.com/822/8223.gif" alt="sillicon-valley"/>
+<!--
+ <img align="right" width="30%"  src="https://giffiles.alphacoders.com/822/8223.gif" alt="sillicon-valley"/> -->
 
 #### .🔍Always looking to learn something new
 #### .🐍I’m currently learning Android development using NDK
