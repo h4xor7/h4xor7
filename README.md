@@ -2,8 +2,14 @@
 
 <div align="center" style="background-color:#000000; padding:20px; border-radius:10px;">
   <h1 style="font-family:'Courier New', monospace; color:#FFA500; text-shadow:0 0 5px #FF8C00, 0 0 10px #FFA500;">
-    🕰️ Saurabh Pandey — Variant ID: h4xor7
+    🕰️ Saurabh Pandey
   </h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6F00&width=435&lines=Variant+ID%3A+h4xor7;&center=true&color=FFA500&width=440&height=45" alt="typing effect"/>
+
+
+
+
   <p style="font-family:'Courier New', monospace; color:#FFA500; text-shadow:0 0 3px #FF8C00;">
     <i>Resetting timelines, one bug at a time.</i>
   </p>
@@ -39,7 +45,6 @@ Status: Always branching timelines...
 
 <div align="center" style="background-color:#000; padding:15px; border-radius:8px;">
   <a href="https://linkedin.com/in/saurabh-pandey-639255128"><img src="https://img.shields.io/badge/-LinkedIn-FFA500?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:saurabhp815@gmail.com"><img src="https://img.shields.io/badge/-Email-FFA500?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
@@ -77,5 +82,6 @@ Status: Always branching timelines...
 <br/>
 
 <p align="center" style="font-family:'Courier New', monospace; color:#FFA500; text-shadow:0 0 3px #FF8C00;">
+
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Variant+Detected...;Initializing+Protocols...;Glitch+Neutralized;&center=true&color=FFA500&width=440&height=45" alt="typing effect"/>
 </p>
