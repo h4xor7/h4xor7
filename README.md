@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Kotlin+Expert;Building+Modern+Mobile+Experiences;Clean+Architecture+Enthusiast;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Android+Developer;Building+Modern+Mobile+Experiences;Clean+Architecture+Enthusiast;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=h4xor7&label=Profile%20Views&color=00d4aa&style=for-the-badge" alt="Profile views" />
