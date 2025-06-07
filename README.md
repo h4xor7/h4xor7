@@ -1,87 +1,158 @@
-<!-- README with TVA Terminal Vibes: Orange Glow on Dark -->
+# 👋 Hey there! I'm Saurabh Pandey
 
-<div align="center" style="background-color:#000000; padding:20px; border-radius:10px;">
-  <h1 style="font-family:'Courier New', monospace; color:#FFA500; text-shadow:0 0 5px #FF8C00, 0 0 10px #FFA500;">
-    🕰️ Saurabh Pandey
-  </h1>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6F00&width=435&lines=Variant+ID%3A+h4xor7;&center=true&color=FFA500&width=440&height=45" alt="typing effect"/>
-
-
-
-
-  <p style="font-family:'Courier New', monospace; color:#FFA500; text-shadow:0 0 3px #FF8C00;">
-    <i>Resetting timelines, one bug at a time.</i>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Kotlin+Expert;Building+Modern+Mobile+Experiences;Clean+Architecture+Enthusiast;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=h4xor7&label=Profile%20Views&color=00d4aa&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/h4xor7?label=Followers&style=for-the-badge&color=00d4aa" alt="followers" />
   </p>
-  <img src="https://komarev.com/ghpvc/?username=h4xor7&label=Temporal%20Scans&color=FFA500&style=flat-square" alt="Profile views" />
+  
 </div>
 
-<br/>
+---
 
-<div style="background-color:#000000; padding:15px; border-radius:8px; box-shadow:0 0 20px #FFA500;">
-<pre style="font-family:'Courier New', monospace; color:#FFA500; font-size:14px; line-height:1.5; text-shadow:0 0 4px #FF8C00;">
-Name: Saurabh Pandey
-Role: Android Developer (Kotlin | Jetpack Compose | NDK)
-Location: India, Earth Timeline-616
-Mission: Build efficient Android apps & learn new tech
-Status: Always branching timelines...
-</pre>
+## 🚀 About Me
+
+```kotlin
+class AndroidDeveloper {
+    val name = "Saurabh Pandey"
+    val location = "India 🇮🇳"
+    val role = "Android Developer"
+    
+    val currentFocus = listOf(
+        "Server-driven UI Architecture",
+        "Jetpack Compose Mastery",
+        "Android NDK & Native Development",
+        "Performance Optimization"
+    )
+    
+    val passions = listOf(
+        "Clean Code", 
+        "Modern Architecture", 
+        "User Experience",
+        "Continuous Learning"
+    )
+    
+    fun getMotivation() = "Turning ideas into delightful mobile experiences"
+}
+```
+
+---
+
+## 🔧 Tech Stack & Tools
+
+<div align="center">
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🏗️ Architecture & Patterns
+![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4ECDC4?style=for-the-badge)
+
+### 🔗 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+
+### 🛠️ Development Tools
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-BDFF61?style=for-the-badge&logo=adobexd&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF6164?style=for-the-badge&logo=adobexd&logoColor=white)
+
+### ⚡ Currently Exploring
+![NDK](https://img.shields.io/badge/Android%20NDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
 </div>
 
-<br/>
+---
 
-<details open style="background-color:#000; padding:10px; border-radius:5px;">
-<summary style="font-family:'Courier New', monospace; color:#FFA500; cursor:pointer;">
-  🧠 Currently Hacking On
-</summary>
-<ul style="font-family:'Courier New', monospace; color:#FFA500;">
-  <li>🛰 Server-driven UI for Android</li>
-  <li>🧪 Android NDK & Native Modules</li>
-  <li>🧰 Clean Architecture, Jetpack Compose, Hilt</li>
-</ul>
-</details>
+## 📊 GitHub Analytics
 
-<br/>
-
-<div align="center" style="background-color:#000; padding:15px; border-radius:8px;">
-  <a href="https://linkedin.com/in/saurabh-pandey-639255128"><img src="https://img.shields.io/badge/-LinkedIn-FFA500?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h4xor7&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4xor7&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=c9d1d9"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4xor7&theme=react&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA"/>
+</div>
 
-### ⚒️ Tools in My Multiversal Arsenal
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-</p>
+---
 
-<br/>
+## 🎯 Current Focus Areas
 
-### 📊 TVA Monitoring Console
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4xor7&theme=dark&show_icons=true&hide_border=true&border_color=000000&icon_color=FFA500&text_color=FFA500&title_color=FFA500" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4xor7&layout=compact&theme=dark&hide_border=true&border_color=000000&icon_color=FFA500&text_color=FFA500&title_color=FFA500" height="180"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏗️ Architecture</h3>
+      <p>Building scalable, maintainable Android apps with Clean Architecture, MVVM, and modern design patterns</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 UI/UX</h3>
+      <p>Creating beautiful, intuitive interfaces with Jetpack Compose and Material Design 3</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚡ Performance</h3>
+      <p>Optimizing app performance through NDK integration and efficient resource management</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔄 Server-Driven UI</h3>
+      <p>Implementing dynamic, server-controlled interfaces for flexible app experiences</p>
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
-### 🐍 Time Stream Tracker
+## 🌟 Featured Projects
+
+```kotlin
+// Coming soon - exciting projects in development!
+val featuredProjects = listOf(
+    Project(
+        name = "Modern Android Architecture Template",
+        tech = listOf("Kotlin", "Compose", "Hilt", "Room"),
+        status = "In Progress"
+    ),
+    Project(
+        name = "Server-Driven UI Framework",
+        tech = listOf("Kotlin", "Retrofit", "Compose"),
+        status = "Planning"
+    )
+)
+```
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-pandey-639255128)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4xor7)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Always+open+to+interesting+conversations+and+collaborations!;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Contact typing effect" />
+  </p>
+  
+</div>
+
+---
+
 <div align="center" style="background-color:#000; padding:10px; border-radius:5px;">
   <img src="https://github.com/h4xor7/h4xor7/blob/main/git_snake.svg" alt="snake animation"/>
 </div>
-
-<br/>
-
-<p align="center" style="font-family:'Courier New', monospace; color:#FFA500; text-shadow:0 0 3px #FF8C00;">
-
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Variant+Detected...;Initializing+Protocols...;Glitch+Neutralized;&center=true&color=FFA500&width=440&height=45" alt="typing effect"/>
-</p>
